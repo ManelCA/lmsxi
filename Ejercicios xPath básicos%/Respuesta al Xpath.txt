@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+1.//máquina
+2.//hardware
+3.//config
+4.//fabricante
+5.//disco
+6.//IP
+
+Rutas de localización con diversos eixos
+
+7.//@nome
+8.//equipos/máquina[hardware/gravadora/@tipo='DVD']/@nome
+9.//equipos/máquina/config[role]/OS/text()
